@@ -1,0 +1,15 @@
+form
+{
+    padding: 5% 0% 1% 0%;
+    text-align: center;
+}
+input
+{
+    padding: 1.2%;
+    border-radius: 20%;
+    background-color: aquamarine;
+    font-size: larger;
+}
+body{
+    background-color:darkcyan;
+}
